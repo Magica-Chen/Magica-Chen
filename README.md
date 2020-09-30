@@ -4,6 +4,8 @@ I'm a Postdoc in the Department of Computer Science, College of Engineering, Mat
 I have strong interests in these topics, including time series forecasting, financial data analysis, probablistic machine learning, Bayesian non-parametric predictive models and their applications, e.g. Gaussian Process and its application.
 Welcome to contact me if you would like to collaborate with me on these topics above.
 
+
+<!--
 **Magica-Chen/Magica-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
