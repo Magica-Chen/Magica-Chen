@@ -6,6 +6,9 @@
 - 📫 How to reach me: sxtpy2010@gmail.com
 - ⚡ Fun fact: bad Dota 2 player
 
+[![Magica's github stats](https://github-readme-stats.vercel.app/api?username=Magica-Chen)](https://github.com/Magica-Chen/github-readme-stats)
+
+
 <!--
 **Magica-Chen/Magica-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
