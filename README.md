@@ -6,7 +6,7 @@
 - 📫 How to reach me: sxtpy2010@gmail.com
 - ⚡ Fun fact: bad Dota 2 player
 
-[![Magica's github stats](https://github-readme-stats.vercel.app/api?username=Magica-Chen)](https://github.com/Magica-Chen/github-readme-stats)
+[![Magica's github stats](https://github-readme-stats.vercel.app/api?username=Magica-Chen&hide=contribs,prs)](https://github.com/Magica-Chen/github-readme-stats)
 
 
 <!--
