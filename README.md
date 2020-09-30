@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm a Postdoc in the Department of Computer Science, College of Engineering, Mathematics, and Physical Science at the University of Exeter. 
-I have strong interests in these topics, including time series forecasting, financial data analysis, probablistic machine learning, Bayesian non-parametric predictive models and their applications, e.g. Gaussian Process and its application.
-Welcome to contact me if you would like to collaborate with me on these topics above.
-
+- 🔭 I’m currently a Postdoc working on Bayesian non-parametric modelling and human mobiliy
+- 🌱 I’m currently learning everything !!! ^V^
+- 👯 I’m looking to collaborate on these topics, time series forecasting, financial data analysis, probablistic machine learning, Bayesian non-parametric predictive models and their applications, e.g. Gaussian Process and its application. Welcome to contact me if you would like to collaborate with me on these topics above.
+- 📫 How to reach me: sxtpy2010@gmail.com
+- ⚡ Fun fact: bad Dota 2 player
 
 <!--
 **Magica-Chen/Magica-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
