@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a Postdoc working on Bayesian non-parametric modelling and human mobiliy
+- 🔭 I’m currently a lecturer at University of Edinburgh. My reserach interests include Bayesian non-parametric modelling, financial time series analysis and human mobiliy
 - 🌱 I’m currently learning everything !!! ^V^
 - 👯 I’m looking to collaborate on these topics, time series forecasting, financial data analysis, probablistic machine learning, Bayesian non-parametric predictive models and their applications, e.g. Gaussian Process and its application. Welcome to contact me if you would like to collaborate with me on these topics above.
 - 📫 How to reach me: sxtpy2010@gmail.com
